@@ -1,3 +1,2 @@
 # prj1
-.sample
-//free to use
+.sample.c //free to use
